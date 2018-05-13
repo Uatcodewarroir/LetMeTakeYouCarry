@@ -1,5 +1,5 @@
 ## Goal  
-====   
+  
 #### 时间:2018.05.13  
 #### 这个项目是建立一套转发的协议实现远程协作;  
 #### 项目初期,开始只实现功能;  
@@ -35,11 +35,13 @@ TOOL:          "devenv|vcexpress|wdexpress|msbuild"
 
 Default is build all.  
 ```    
-### 编译选项:  
+### 编译选项命令:  
 >clean   
 >buildwin.cmd 150 clean
+>buildwin.cmd 150 build shared debug x64 samples tests  devenv
+>
 
-### build默认使用动态链接:
+#### build默认使用动态链接:
 
 
   

@@ -18,8 +18,10 @@
 *.db
 *.opendb
 
+
 # folder 
 x64/
+.vs/
 
 # Compiled Dynamic libraries
 *.so

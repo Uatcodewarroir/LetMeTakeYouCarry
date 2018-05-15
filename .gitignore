@@ -43,3 +43,8 @@ x64/
 *.out
 *.app
 *.user
+
+
+
+
+lua-5.1.5.tar/

@@ -44,4 +44,4 @@ Default is build all.
 #### build默认使用动态链接:
 
 
-  
+   test hook 
